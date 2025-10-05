@@ -49,8 +49,8 @@ tkinter (for GUI), random (optional for AI version)
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/python-mini-projects.git
-cd python-mini-projects
+git clone https://github.com/NischalBhusal/Python-Project
+cd Python-Project
 
 
 Install any required dependencies:
@@ -65,23 +65,6 @@ python alarm/alarm.py
 python calculator/calculator.py
 python tic_tac_toe/tic_tac_toe.py
 
-📦 Folder Structure
-Python-Project/
-│
-├── alarm/
-│   ├── alarm.py
-│   └── README.md
-│
-├── calculator/
-│   ├── calculator.py
-│   └── README.md
-│
-├── tic_tac_toe/
-│   ├── tic_tac_toe.py
-│   └── README.md
-│
-├── requirements.txt
-└── README.md
 
 💡 Future Enhancements
 
